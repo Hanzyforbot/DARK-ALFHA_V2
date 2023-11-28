@@ -1,8 +1,8 @@
 {
-   "name": "DAEK AHFHA",
-   "version": "0.0.1",
-   "description": "dark alfha based on JavaScript",
-   "author": "Deep-Eagle",
+   "name": "siesta ",
+   "version": "3.0.0",
+   "description": "siesta bot based on JavaScript",
+   "author": "Hanz",
    "main": "src/darkalfha.js",
    "keywords": [
       "Whatsapp",
